@@ -1,2 +1,2 @@
 # Job-Recommendation-System
-A Machine Learning–based Job Recommendation System that matches users with relevant job opportunities based on their resume.
+A Smart Job Recommendation System built with Python and Streamlit that analyzes Resumes using NLP Techniques and recommends relevant jobs based on Skills and Keywords extracted from Resume.
